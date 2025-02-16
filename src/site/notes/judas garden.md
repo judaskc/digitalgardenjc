@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/judas-garden/","tags":["gardenEntry"]}
 ---
 
-hello world!
+hello world!'
+[[judas garden\|judas garden]][[about\|about]]
